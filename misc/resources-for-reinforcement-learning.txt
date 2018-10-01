@@ -1,0 +1,21 @@
+Resources for reinforcement learning
+
+from http://forums.fast.ai/t/welcome-to-part-1-v2/5787/17
+
+There are some good RL courses freely available. David Silver’s RL course is the classic one (https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PL7-jPKtc4r78-wCZcQn5IqyuWhBZ8fOxT 75)
+There’s a course on deep reinforcement learning (http://rll.berkeley.edu/deeprlcourse/ 45) that looks great but I haven’t gone through it yet.
+Finally there’s a nice github project (https://github.com/dennybritz/reinforcement-learning 53) that has implementations for a lot of the popular RL algs.
+I remember reading a lot of good blog posts/tutorials but I can’t find them now. If I do I’ll add them in.
+
+
+
+
+
+In addition to David Silver’s and Berkeley’s AI there is a new course by MSFT and EDX https://courses.edx.org/courses/course-v1:Microsoft+DAT257x+3T2017/course/ 50. They have some problems with course’s internal website… for some reason the site is not working. You need to go to Discussions tab where they pinned one post about how to reach each module  and start from there. You have a lot of labs and course is really good.
+Then there is another new RL MOOC on coursera, https://www.coursera.org/learn/practical-rl 47, which starts now and which will have some interesting and tough PAs (at least in other courses of this AML specialization they did have good programming assignments).
+Finally Berkeley has the class that combines Deep Learning (mainly for learning representation and RL and they publish videos every semester with programming assignments and everything. Just google it.
+
+
+
+
+
